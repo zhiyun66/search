@@ -25,6 +25,7 @@ QQ 3号； 1455112844
 该PHP源码无需要安装数据库，无需伪静态配置，全站自动更新采集，自动更新缓存生成HTML文件，虚拟主机空间都可以使用！搭建操作非常简单！
 
 演示地址： http://bd.zhiyun666.xyz
+
 源码演示截图及介绍地址；https://zhiyun66.github.io/htm/htmlb.html
 
 
