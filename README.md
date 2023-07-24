@@ -108,6 +108,8 @@ QQ 3号； 1455112844
 
 前端自适应！加入电脑端屏蔽访问（可修改屏蔽访问）
 
+源码演示截图及介绍地址；https://zhiyun66.github.io/htm/htmlq.html
+
 # 其他源码简介导航
 
 地址；https://zhiyun66.github.io/htm/index.html
